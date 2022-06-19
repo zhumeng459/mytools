@@ -141,15 +141,6 @@ Ionic 是目前最有潜力的一款 html5 手机应用开发框架。通过 SAS
 　　　　　　易于学习
 　　　　　　通过最少的 API，掌握 Gulp 毫不费力，构建工作尽在掌握：如同一系列流管道。
  
-五、博客搭建 
-1.技术组合
-　　HEXO+Github,搭建属于自己的博客。
-
-　　站点：点击打开链接
-
-　　HEXO介绍：Hexo是一个开源的静态博客生成器,用node.js开发,作者是大学生tommy351
-　　准备：git  + node.js + markdown编辑 + gitcafe + 域名
----
-
+* * *
 [闽ICP备20013251号](https://beian.miit.gov.cn/)
  
